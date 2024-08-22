@@ -79,7 +79,7 @@
 		}
 		return $pass;
 	}
-	$finalcode='GD-'.createRandomPassword();
+	$finalcode='MM-'.createRandomPassword();
 ?>
 <body>
 	<?php include('navfixed.php');?>

@@ -77,7 +77,7 @@ function createRandomPassword() {
 	}
 	return $pass;
 }
-$finalcode='GD-'.createRandomPassword();
+$finalcode='MM-'.createRandomPassword();
 ?>
 
 

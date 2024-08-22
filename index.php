@@ -70,7 +70,7 @@ if( isset($_SESSION['ERRMSG_ARR']) && is_array($_SESSION['ERRMSG_ARR']) && count
 </div>
 </div>
 <footer style="position:absolute; bottom:0px; margin:0 160px;">
-	<p>Copyright &copy; <?php echo date("Y"); ?> &nbsp;developed by: Nuraddeen Iyal Sada. Department Of Software Engineering, Al-qalam University Katsina.</p>
+	<p>Copyright &copy; <?php echo date("Y"); ?> &nbsp;developed by: Nuraddeen Iyal Sada. Department Of Software Engineering & Cyber Security, Al-qalam University Katsina.</p>
 </footer>
 </body>
 </html>
